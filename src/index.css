@@ -11,9 +11,9 @@
 
 @font-face {
   font-family: 'Tilda Sans';
-  src: url('/fonts/TildaSans/TildaSans-Light.woff2') format('woff2'),
-       url('/fonts/TildaSans/TildaSans-Light.woff') format('woff'),
-       url('/fonts/TildaSans/TildaSans-Light.eot') format('eot');
+  src: url('./assets/fonts/TildaSans/TildaSans-Light.woff2') format('woff2'),
+       url('./assets/fonts/TildaSans/TildaSans-Light.woff') format('woff'),
+       url('./assets/fonts/TildaSans/TildaSans-Light.eot') format('eot');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -21,9 +21,9 @@
 
 @font-face {
   font-family: 'Tilda Sans';
-  src: url('/fonts/TildaSans/TildaSans-Regular.woff2') format('woff2'),
-       url('/fonts/TildaSans/TildaSans-Regular.woff') format('woff'),
-       url('/fonts/TildaSans/TildaSans-Regular.eot') format('eot');
+  src: url('./assets/fonts/TildaSans/TildaSans-Regular.woff2') format('woff2'),
+       url('./assets/fonts/TildaSans/TildaSans-Regular.woff') format('woff'),
+       url('./assets/fonts/TildaSans/TildaSans-Regular.eot') format('eot');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -31,9 +31,9 @@
 
 @font-face {
   font-family: 'Tilda Sans';
-  src: url('/fonts/TildaSans/TildaSans-Medium.woff2') format('woff2'),
-       url('/fonts/TildaSans/TildaSans-Medium.woff') format('woff'),
-       url('/fonts/TildaSans/TildaSans-Medium.eot') format('eot');
+  src: url('./assets/fonts/TildaSans/TildaSans-Medium.woff2') format('woff2'),
+       url('./assets/fonts/TildaSans/TildaSans-Medium.woff') format('woff'),
+       url('./assets/fonts/TildaSans/TildaSans-Medium.eot') format('eot');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -41,9 +41,9 @@
 
 @font-face {
   font-family: 'Tilda Sans';
-  src: url('/fonts/TildaSans/TildaSans-Semibold.woff2') format('woff2'),
-       url('/fonts/TildaSans/TildaSans-Semibold.woff') format('woff'),
-       url('/fonts/TildaSans/TildaSans-Semibold.eot') format('eot');
+  src: url('./assets/fonts/TildaSans/TildaSans-Semibold.woff2') format('woff2'),
+       url('./assets/fonts/TildaSans/TildaSans-Semibold.woff') format('woff'),
+       url('./assets/fonts/TildaSans/TildaSans-Semibold.eot') format('eot');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -61,9 +61,9 @@
 
 @font-face {
   font-family: 'Tilda Sans';
-  src: url('/fonts/TildaSans/TildaSans-ExtraBold.woff2') format('woff2'),
-       url('/fonts/TildaSans/TildaSans-ExtraBold.woff') format('woff'),
-       url('/fonts/TildaSans/TildaSans-ExtraBold.eot') format('eot');
+  src: url('./assets/fonts/TildaSans/TildaSans-ExtraBold.woff2') format('woff2'),
+       url('./assets/fonts/TildaSans/TildaSans-ExtraBold.woff') format('woff'),
+       url('./assets/fonts/TildaSans/TildaSans-ExtraBold.eot') format('eot');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -71,9 +71,9 @@
 
 @font-face {
   font-family: 'Tilda Sans';
-  src: url('/fonts/TildaSans/TildaSans-Black.woff2') format('woff2'),
-       url('/fonts/TildaSans/TildaSans-Black.woff') format('woff'),
-       url('/fonts/TildaSans/TildaSans-Black.eot') format('eot');
+  src: url('./assets/fonts/TildaSans/TildaSans-Black.woff2') format('woff2'),
+       url('./assets/fonts/TildaSans/TildaSans-Black.woff') format('woff'),
+       url('./assets/fonts/TildaSans/TildaSans-Black.eot') format('eot');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
