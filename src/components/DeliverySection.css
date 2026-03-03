@@ -1,0 +1,51 @@
+/* delivery Section */
+.delivery-section {
+  padding: 144px 0;
+  overflow: hidden;
+}
+.delivery-section-text {
+    display: flex;
+    flex-direction: column;
+}
+.delivery-title {
+  font-family: var(--font-tilda);
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -1.12px;
+  color: #050200;
+  margin: 0 0 12px;
+}
+.delivery-subtitle {
+  font-family: var(--font-inter-tight);
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: -0.36px;
+  color: #353332;
+  max-width: 800px;
+  margin-bottom: 48px;
+}
+
+.delivery-band {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  overflow: hidden;
+}
+
+.delivery-track {
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  width: max-content;
+  animation: partnersScroll 30s linear infinite reverse;
+  will-change: transform;
+}
+
+.delivery-logo {
+  flex-shrink: 0;
+}
+
+.delivery-logo img {
+  height: 56px;
+  width: auto;
+}

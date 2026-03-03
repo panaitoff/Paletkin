@@ -1,0 +1,49 @@
+/* Partners Section */
+.partners-section {
+  padding: 80px 0 100px;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.partners-title {
+  font-family: var(--font-tilda);
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -1.12px;
+  color: #050200;
+  text-align: center;
+  margin: 0 0 48px;
+}
+
+.partners-band {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  padding: 32px 0;
+  background-image: linear-gradient(85deg, #e46314 29%, #ffa729 105%);
+   outline: 5px solid transparent; /* Хитрость для сглаживания */
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.1); /* Маскирует артефакты */
+  transform: rotate(-2deg);
+  overflow: hidden;
+}
+
+.partners-track {
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  width: max-content;
+  animation: partnersScroll 30s linear infinite;
+  will-change: transform;
+}
+
+.partners-logo {
+  flex-shrink: 0;
+}
+
+.partners-logo img {
+  height: 70px;
+  width: auto;
+  max-width: 240px;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}

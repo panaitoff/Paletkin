@@ -1,3 +1,5 @@
+import './PartnersSection.css'
+
 import ozon from '../assets/image/partners/ozon.svg'
 import lamoda from '../assets/image/partners/lamoda.svg'
 import megam from '../assets/image/partners/megam.svg'
